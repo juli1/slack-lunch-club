@@ -9,10 +9,6 @@
 flow-typed/
 backend/flow-types/
 
-[lints]
-# TODO: https://github.com/flowtype/flow-typed/issues/2407
-deprecated-call-syntax=off
-
 [options]
 include_warnings=true
 esproposal.class_static_fields=enable
